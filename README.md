@@ -1,5 +1,5 @@
-# CS186-Database
-- Rockie DB:
+# Database Implementation
+- Rookie DB:
   - Indexing with B+ Tree:
 
     1. Read node from disk
